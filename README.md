@@ -16,3 +16,10 @@ In this project we will build a classification model to predict whether or not a
 * Create dummy variables for comparitive modeling on best-performing models
 * Build two comparable well-performing models using Random Forest and Gradient Boosting classifiers
 * Identify most important features from final model
+
+### Which features were most important in our models?
+
+![Customer Service Calls](image/customerchurnbar.png)
+![Customer Service Calls](image/customerchurnbox.png)
+![Churn Rate by State](image/statechurn.png)
+![Feature Importances](image/featureimportance.png)

@@ -14,5 +14,5 @@ In this project we will build a classification model to predict whether or not a
 * Create baseline model using Random Forest Classifier, Pipeline, and GridSearchCV, adjust parameters to maximize recall score
 * Iterate through Logistic Regression, Gradient Boosting, AdaBoost, and K-Nearest Neighbors models, adjusting fits and scaling data where necessary
 * Create dummy variables for comparitive modeling on best-performing models
-* Build two comparable well-performing bodels using Random Forest and Gradient Boosting classifiers
+* Build two comparable well-performing models using Random Forest and Gradient Boosting classifiers
 * Identify most important features from final model

@@ -1,4 +1,4 @@
-# Module 3 Final Project readme
+# SyriaTel Customer Churn
 
 In this project we will build a classification model to predict whether or not a customer will churn, or stop doing business with SyriaTel, a mobile network provider.  We will explore, clean and feature engineer our dataset and iteratively model our data using and tuning machine learning algorithms to build a classifier suited for the best predictions for the business problem at hand.
 
